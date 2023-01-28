@@ -1,0 +1,51 @@
+td.buttons-pos {
+    list-style-type: none;
+    display: inline-flex;
+
+}
+
+td.button-pos a {
+    margin-right: 15px;
+    text-align: center;
+}
+
+.btn-margin {
+    margin-right: 10px;
+}
+
+.inputfornotification {
+    width: 500px;
+    padding-bottom: 200px;
+    font-size: 16px;
+}
+
+.sw-resize {
+    cursor: move;
+}
+
+.all-copy {
+    -webkit-user-select: all;
+    /* Chrome all / Safari all */
+    -moz-user-select: all;
+    /* Firefox all */
+    -ms-user-select: all;
+    /* IE 10+ */
+    user-select: all;
+    /* Likely future */
+}
+
+row.select_role {
+    padding: 15px 0px;
+}
+
+.insert-rand-button {
+    margin-left: 8px;
+}
+
+.hide-text a {
+    color: #3433 !important;
+}
+
+.hide-text:hover a {
+    color: #000 !important;
+}

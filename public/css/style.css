@@ -1,0 +1,50 @@
+body {
+    background: #0575E6;  /* for old browsers */
+    background: -webkit-linear-gradient(to top, #021B79, #0575E6);  /* safare and chrome 10-25 */
+    background: linear-gradient(to top, #021B79, #0575E6); /* chrome, firefox... */
+
+
+}
+.btn-login {
+    background: linear-gradient(to top, #0575E6, #0575E6);
+    color: #fff;
+}
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+td.buttons-pos {
+    display: inline-flex;
+    border: 0;
+}
+
+td.button-pos a {
+    margin-right: 15px;
+}
+
+.inputfornotification {
+    width: 500px;
+    padding-bottom: 200px;
+    font-size: 16px;
+}
+
+.card {
+    background-color: rgba(12,12,12,0.5);
+    color: #eee;
+}
+.card h4 {
+    color: #eee;
+}
+
+.message {
+    color: black; 
+    padding: 5px; 
+    border-radius: 5px; 
+    margin: 5px; 
+    position: absolute; 
+    left: 10px;
+    display: inline; 
+}
